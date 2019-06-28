@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace ListViewConAPI.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ListView : ContentPage
+    public partial class ListV : ContentPage
     {
-        public ListView()
+        public ListV()
         {
             InitializeComponent();
         }
